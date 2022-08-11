@@ -7,9 +7,11 @@ This Application designed to prevent advertisements from appearing on a web page
 <a href="https://raw.githubusercontent.com/BanRossyn/WebView-With-AdBlocker/main/app/src/main/assets/adhost">Domain Names</a>
 of the elements loading on the web page against massive blacklists
 
+
+
 - ⚡  If You want to join us than message on <a href="banrossyn@gmail.com">Mail</a>
 &
-<a href="https://t.me/banrossyn">Telegram</a>.
+<a href="https://t.me/banrossyn">Telegram</a>. 
 
 > Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
 # 
@@ -18,7 +20,7 @@ of the elements loading on the web page against massive blacklists
       <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png"/>
     </a>
   </p>
-<p style="text-align: center;">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
+<p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
 
 ## 
 <p align="center">
